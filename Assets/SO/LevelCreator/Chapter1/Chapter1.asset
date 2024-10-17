@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11a2b5c3411c78f4e835e9b70eaf1c83, type: 3}
+  m_Name: Chapter1
+  m_EditorClassIdentifier: 
+  chapterLevels:
+  - {fileID: 11400000, guid: 23f5e9182eb3c4f4383eb8d8980915dc, type: 2}
+  - {fileID: 11400000, guid: 3fae8d2bed833ea448a17d8a3a005987, type: 2}
+  - {fileID: 11400000, guid: 20e311b41c5171c45b914924a6eb1f96, type: 2}
+  - {fileID: 11400000, guid: 8401104f368dcfa42827a520f637f448, type: 2}
+  - {fileID: 11400000, guid: 31315b2675e2db54f82c22f3f05f6c7e, type: 2}
+  - {fileID: 11400000, guid: d3fe9178215809b4ea519255f794a826, type: 2}

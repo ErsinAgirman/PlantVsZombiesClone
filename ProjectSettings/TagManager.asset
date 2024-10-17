@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Clickable
+  - Enemies
+  - Plants
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3380994295
+    locked: 0
+  - name: Plants
+    uniqueID: 663808593
+    locked: 0
+  - name: Zombies
+    uniqueID: 2210814409
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2296498343
+    locked: 0
+  - name: MouseIcon
+    uniqueID: 1216032247
+    locked: 0
+  - name: Effects
+    uniqueID: 3135928485
+    locked: 0

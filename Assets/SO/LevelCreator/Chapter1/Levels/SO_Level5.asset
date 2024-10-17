@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50455a97ea28e5e488e63bc6db7a305d, type: 3}
+  m_Name: SO_Level5
+  m_EditorClassIdentifier: 
+  levelName: Level1 - 5
+  levelSettings:
+  - phase: 0
+    phaseEndTime: 120
+    zombieCount: 15
+    zombieTypes: 0000000001000000
+  - phase: 0
+    phaseEndTime: 100
+    zombieCount: 10
+    zombieTypes: 000000000100000002000000
+  spawnTimer: 12
+  firstSpawnTimer: 30
